@@ -1,0 +1,11 @@
+.part{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+  }
+  .part{
+   opacity: 0;
+  }
+  .part .animated{
+    opacity: 1;
+  }
